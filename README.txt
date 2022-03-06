@@ -29,7 +29,7 @@ TASK3
 
 TASK4
 
--Acest task a durat de 2 zile
+-Acest task a durat in jur de 2 zile
 -Am incarcat baza de date aproape la fel ca la taskul 1 dar in loc de continut si titlu am pus intregul cod html, alocandu-l dinamic
 -Am facut cele 2 functii de rotire a bitilor
 -Am citit de la tastatura URL-uri pana la intalnirea cu tasta "ENTER"
